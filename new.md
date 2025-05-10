@@ -1,5 +1,3 @@
-[ ] Well
-[X] Well
-[Y] Well
-[ ] Well
+[] The Commit has been che ked
+[] The Commit DFone Succesfully
 
